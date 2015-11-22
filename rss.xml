@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Test1Site1]]></title>
         <description><![CDATA[Test1Site1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test1site1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 20:18:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 20:18:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test1site1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chief Data Scientist - Online Media - Omnibus Consulting]]></title>
             <description><![CDATA[<article><h1>Chief Data Scientist - Online Media - Omnibus Consulting</h1><p>Chief Data Scientist, Online Media</p></article>]]></description>
             <link>http://omnibusconsulting.com/chief-data-scientist-online-media/</link>
             <guid isPermaLink="false">3ba612c2-518a-4c98-87e3-5914de111ce1</guid>
-            <pubDate>Sun, 22 Nov 2015 20:18:26 GMT</pubDate>
+            <pubDate>Sun, 22 Nov 2015 20:18:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
