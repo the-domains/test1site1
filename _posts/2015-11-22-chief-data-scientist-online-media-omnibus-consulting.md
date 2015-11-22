@@ -17,8 +17,8 @@ keywords:
   - app
   - company
 description: 'Interested, qualified candidates should email a resume and cover letter to Dan Ogden, Principal, Omnibus Consulting at Chief Data Scientist, Online Media dan@omnibusconsulting.com The client: . MS Word (preferred) or PDF (acceptable). All inquiries treated as confidential.'
-datePublished: '2015-11-22T20:18:26.127Z'
-dateModified: '2015-11-22T17:49:35.226Z'
+datePublished: '2015-11-22T20:18:38.775Z'
+dateModified: '2015-11-22T20:18:26.127Z'
 author:
   - name: Dan Ogden
     url: 'http://omnibusconsulting.com/author/omnibus2/'
