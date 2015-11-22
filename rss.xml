@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test1Site1]]></title>
+        <description><![CDATA[Test1Site1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 20:18:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chief Data Scientist - Online Media - Omnibus Consulting]]></title>
+            <description><![CDATA[<article><h1>Chief Data Scientist - Online Media - Omnibus Consulting</h1><p>Chief Data Scientist, Online Media</p></article>]]></description>
+            <link>http://omnibusconsulting.com/chief-data-scientist-online-media/</link>
+            <guid isPermaLink="false">3ba612c2-518a-4c98-87e3-5914de111ce1</guid>
+            <pubDate>Sun, 22 Nov 2015 20:18:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
